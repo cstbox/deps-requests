@@ -1,0 +1,11 @@
+Package: cstbox-deps-requests
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: python (>=2.7), python (<<3)
+Maintainer: Eric Pascual <eric.pascual@cstb.fr>
+Description: Embeds the Requests package in CSTBox environment
+ Requests is an elegant and simple HTTP library for Python, built for human beings.
+ .
+ It is released under Apache2 license and can be found on http://docs.python-requests.org/
